@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who works at Holaluz in Barcelona and enjoy his family un Rubí.
+        Written by <strong>{author}</strong> who works at Holaluz in Barcelona and enjoys his family in Rubí.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`} target="_blank" rel="noopener nofollow">
           You should follow him on Twitter
