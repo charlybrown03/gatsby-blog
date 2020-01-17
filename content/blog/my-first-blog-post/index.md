@@ -12,10 +12,13 @@ First of all, I want to thank
 and [Igor Modino](https://www.linkedin.com/in/igor-modino-p%C3%A9rez-83426539/),
 who trust during my internship at [eSportics](https://www.esportics.com/es/),
 and where I begin to lear what a frontend means, after using Java executed 99%
-of the time from the line of commands. I discovered WTF is a CSS file, and how it
-is related with the HTML elements, and of course, jQuery, with the DOM interaction,
-and met Ajax and the async request and callback functions. At that moment, I had
-no idea about what I was doing, but I got out of the databases, except for some
-PHP stuff, and began to learn how to build and interact with a flexible and nice UI.
+of the time from the line of commands.
+
+I discovered WTF is a CSS file, and how it is related with the HTML elements,
+and of course, jQuery, with the DOM interaction, and met Ajax and the async
+request and callback functions. At that moment, I had no idea about what I
+was doing, but I got out of the databases, except for some PHP stuff, and I
+began to learn how to build and interact with a flexible and nice UI, and
+I began to enjoy as a child do.
 
 !["I have no idea what I'm doing" meme](./dog-meme.png)
