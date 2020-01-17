@@ -17,3 +17,5 @@ is related with the HTML elements, and of course, jQuery, with the DOM interacti
 and met Ajax and the async request and callback functions. At that moment, I had
 no idea about what I was doing, but I got out of the databases, except for some
 PHP stuff, and began to learn how to build and interact with a flexible and nice UI.
+
+!["I have no idea what I'm doing" meme](./dog-meme.png)
