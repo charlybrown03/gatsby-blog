@@ -1,7 +1,7 @@
 ---
 title: My first blog post
-date: "2020-01-16T21:09:32.169Z"
-description: This is my first blog post where I'm trying to order my thoughts and train my english skills.
+date: "2020-01-17T22:22:32"
+description: This is a thanksgiving to the people who have brought me here
 ---
 
 > Lorem ipsum dolor sit amet consectetur adipiscing elit sociis class, dis nunc purus faucibus eu dui aptent mi ad tristique, cum aliquet vivamus gravida per hendrerit et tortor. Rutrum parturient ad aliquam arcu imperdiet placerat ornare tristique, cras mus curabitur conubia interdum ullamcorper primis odio sodales, scelerisque nostra nisi phasellus inceptos semper iaculis. Torquent ad mollis tortor justo metus nullam, tellus himenaeos eros gravida blandit, praesent senectus parturient eleifend velit.
