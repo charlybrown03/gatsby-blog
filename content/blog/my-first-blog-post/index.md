@@ -65,6 +65,7 @@ At this moment, another fundamental factor appears. The company hired
 Using a less magic framework than the old Angular 1.5, I learned a lot about JS listeners
 and how to manage it in a way that doesn't compromise the app performance, taking care of how
 do you achieve a result in the fastest way.
+
 ![Backbone meme](./backbone-meme.jpg)
 
 I remember with special love this period, I remember that, as a super junior developer,
