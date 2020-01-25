@@ -13,7 +13,7 @@ that have taken me to where I am now.
 
 To give a little context about my background, I studied DAM (Multiplatform
 Application Development), where I learned Java, a little bit of Python and
-DataBases management. 
+DataBases management.
 
 ![Java is not JavaScript](./java-vs-js.jpg)
 
@@ -42,9 +42,9 @@ Then, I continue working at the warehouse as I never studied anything, but playi
 [Laravel](https://laravel.com/) and [Angular](https://angular.io/), also taking a very
 helpful at the beginning online courses at [Patzi](https://platzi.com/).
 
-But everything changed in April 2016, when a friend and fellow student, 
+But everything changed in April 2016, when a friend and fellow student,
 [Biel Conde](https://www.linkedin.com/in/biel-conde-manyoses-45131286/),
-who was working as frontend team lead, decided to call me to a job interview
+who was working as a frontend team lead, decided to call me to a job interview
 where needed skills were... PHP and Angular.
 
 > Oh, I know how to manage this kind of application!
@@ -70,11 +70,11 @@ do you achieve a result in the fastest way.
 
 I remember with special love this period, I remember that, as a super junior developer,
 see and contribute into how a new application was born, gives me an especial relation with the project.
-In a few time, I can code alone without any problem, of course I'd got a lot a PR comments to improve
+In a few time, I can code alone without any problem, of course I'd got a lot of PR comments to improve
 the code, but it was crucial to began to refine my **code quality**, thinking that the code must
 do only what it supose to do, must be self-explanatory, understandable, and readable by other people.
 
-But Germán leaves the company in may 2017, and start working at my actual company, as frontend team lead
+But Germán leaves the company in May 2017, and start working at my actual company, as a frontend team lead
 (of himself). And a **week ago**...
 
 > Hi Carlos! Do you remember me from last week that we were working together?  
@@ -94,3 +94,14 @@ After German leaves the company and Biel began as a team lead, we started seriou
 [VueJS](https://vuejs.org/) things, what we were playing but not using in production. We created a
 Vue components library and started creating Vue projects to standardize it as a frontend, very
 chaotic at the beginning, but a very nice project step by step.
+
+And here we go at this moment, learning a lot every single day, working into our
+[NuxtJS](https://nuxtjs.org/) applications, using both **universal** and **SPA** mode,
+creating tests (sometimes from a [TDD](https://en.wikipedia.org/wiki/Test-driven_development) implementation)
+with [Jest](https://github.com/facebook/jest) + [VTL](https://github.com/testing-library/vue-testing-library)
+and working in a great and multidisciplinary team where all of us contribute into SEO, analytics, best practices,
+simpler and more performant applications, etc. At this moment we are not perfect at all, but we are introducing
+improvement after improvement to achieve the fastest iteration and better product quality.
+
+And that's a very compacted summary about how my last ~4 years, I changed my boring job into a challenging
+and funny one.
