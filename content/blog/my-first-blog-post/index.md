@@ -1,112 +1,107 @@
 ---
 title: My first blog post
-date: "2020-01-16T21:09:32.169Z"
-description: This is my first blog post where I'm trying to order my thoughts and train my english skills.
+date: "2020-01-17T22:22:32"
+description: This is a thanksgiving to the people who have brought me here
 ---
 
-> Lorem ipsum dolor sit amet consectetur adipiscing elit sociis class, dis nunc purus faucibus eu dui aptent mi ad tristique, cum aliquet vivamus gravida per hendrerit et tortor. Rutrum parturient ad aliquam arcu imperdiet placerat ornare tristique, cras mus curabitur conubia interdum ullamcorper primis odio sodales, scelerisque nostra nisi phasellus inceptos semper iaculis. Torquent ad mollis tortor justo metus nullam, tellus himenaeos eros gravida blandit, praesent senectus parturient eleifend velit.
+In my first blog post, I'm trying to recap about the people and actions
+that have taken me to where I am now.
 
-Faucibus felis hac placerat magna porttitor lectus nibh, bibendum vulputate lacinia blandit porta class, donec odio sociis fames libero curabitur. Tortor ultrices morbi inceptos curabitur ante eleifend lectus, montes in porta metus phasellus vitae mollis, scelerisque tristique maecenas dapibus elementum bibendum. Gravida aenean facilisi nec proin ad ornare ligula semper, tincidunt accumsan luctus quam magnis nascetur suscipit ridiculus, arcu nulla congue sodales cras dui odio.
+> Before start, I want to thank my wife, [Verónica González](https://www.instagram.com/corazonderisa/),
+> who encouraged me to start studying again, and without who I'm sure that never
+> would have taken the right decisions that I think that I took.
 
-<!-- Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+To give a little context about my background, I studied DAM (Multiplatform
+Application Development), where I learned Java, a little bit of Python and
+DataBases management.
 
-## On deer horse aboard tritely yikes and much
+![Java is not JavaScript](./java-vs-js.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+#### Now we can start!
 
-- This however showed weasel
-- Well uncritical so misled
-  - this is very interesting
-- Goodness much until that fluid owl
+And before starting to recap, I want to also thank
+[Quim Granados](https://www.linkedin.com/in/quimgranados/),
+[Vanessa Palmer](https://www.linkedin.com/in/palmervanessa/), and
+[Igor Modino](https://www.linkedin.com/in/igor-modino-p%C3%A9rez-83426539/),
+who trust on me during my internship at [eSportics](https://www.esportics.com/es/),
+and where I began to learn what to be a frontend mean, after develop with Java
+executed 99% of the time from the command line.
 
-When she reached the first hills of the **Italic Mountains**, she had a last
-view back on the skyline of her hometown _Bookmarksgrove_, the headline of
-[Alphabet Village](http://google.com) and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.
+I discovered WTF a CSS file is, and how it is related to the HTML elements,
+and of course, jQuery, with the DOM interaction, Ajax and the async
+requests and callback functions... At that moment, I had no idea about what I
+was doing, but I got out of the databases, except for some PHP stuff, and I
+began to learn how to build and interact with a flexible and nice UI, and
+I began to enjoy myself as a child do.
 
-### Overlaid the jeepers uselessly much excluding
+!["I have no idea what I'm doing" meme](./dog-meme.png)
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-[Longe and Parole](http://google.com) and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.
+After ending my internship and my studies, I started to look for a developer job at...
+InfoJobs. It was the wrong decision. I only found underpaid and unattractive job positions.
+Then, I continue working at the warehouse as I never studied anything, but playing with
+[Laravel](https://laravel.com/) and [Angular](https://angular.io/), also taking a very
+helpful at the beginning online courses at [Patzi](https://platzi.com/).
 
-> Far far away, behind the word mountains, far from the countries Vokalia and
-> Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-> right at the coast of the Semantics, a large language ocean.
+But everything changed in April 2016, when a friend and fellow student,
+[Biel Conde](https://www.linkedin.com/in/biel-conde-manyoses-45131286/),
+who was working as a frontend team lead, decided to call me to a job interview
+where needed skills were... PHP and Angular.
 
-It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.
+> Oh, I know how to manage this kind of application!
 
-### According a funnily until pre-set or arrogant well cheerful
+![Angular meme](./angular-meme.jpg)
 
-The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.
+Spoiler: **the real world is not that easy**, we had an underperforming app with
+a lot of bugs and bad practices, where we need to put order and new features at the same time. Here
+I learned what a professional frontend developer must do.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+We worked a lot to accomplish it, but two months later, the company decided to start the
+project again from the roots with a new approach, without using (magic) frameworks where
+the developers can easily lose control of what it's happening.
 
-When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.
+At this moment, another fundamental factor appears. The company hired
+[Germán Robledo](https://www.linkedin.com/in/germanrcuriel/), and we began creating a
+[Backbone](https://backbonejs.org/) + [Marionette](https://marionettejs.com/) application.
+Using a less magic framework than the old Angular 1.5, I learned a lot about JS listeners
+and how to manage it in a way that doesn't compromise the app performance, taking care of how
+do you achieve a result in the fastest way.
 
-> The copy warned the Little Blind Text, that where it came from it would have
-> been rewritten a thousand times and everything that was left from its origin
-> would be the word "and" and the Little Blind Text should turn around and
-> return to its own, safe country.
+![Backbone meme](./backbone-meme.jpg)
 
-But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+I remember with special love this period, I remember that, as a super junior developer,
+see and contribute into how a new application was born, gives me an especial relation with the project.
+In a few time, I can code alone without any problem, of course I'd got a lot of PR comments to improve
+the code, but it was crucial to began to refine my **code quality**, thinking that the code must
+do only what it supose to do, must be self-explanatory, understandable, and readable by other people.
 
-#### Silent delightfully including because before one up barring chameleon
+But Germán leaves the company in May 2017, and start working at my actual company, as a frontend team lead
+(of himself). And a **week ago**...
 
-Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.
+> Hi Carlos! Do you remember me from last week that we were working together?  
+> I'm creating a team!
 
-Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.
+I accepted the proposal, and we hired Biel again, that was working in his own company, but wants to
+change his workplace.
 
-##### Wherever far wow thus a squirrel raccoon jeez jaguar this from along
+Here, we met [Gloria Hornero](https://www.linkedin.com/in/gloriahornero/), from whom
+I learned a lot about testing (and **Ruby** as a gift that I'd used after to build into a
+[Middleman](https://middlemanapp.com/) project), but I consider testing to be my weak point yet today,
+not implement the tests but know what should be tested.
 
-She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.
+![Tests meme](./tests-meme.jpg)
 
-###### Slapped cozy a that lightheartedly and far
+After German leaves the company and Biel began as a team lead, we started seriously doing
+[VueJS](https://vuejs.org/) things, what we were playing but not using in production. We created a
+Vue components library and started creating Vue projects to standardize it as a frontend, very
+chaotic at the beginning, but a very nice project step by step.
 
-The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word "and" and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again. -->
+And here we go at this moment, learning a lot every single day, working into our
+[NuxtJS](https://nuxtjs.org/) applications, using both **universal** and **SPA** mode,
+creating tests (sometimes from a [TDD](https://en.wikipedia.org/wiki/Test-driven_development) implementation)
+with [Jest](https://github.com/facebook/jest) + [VTL](https://github.com/testing-library/vue-testing-library)
+and working in a great and multidisciplinary team where all of us contribute into SEO, analytics, best practices,
+simpler and more performant applications, etc. At this moment we are not perfect at all, but we are introducing
+improvement after improvement to achieve the fastest iteration and better product quality.
+
+And that's a very compacted summary about how my last ~4 years, I changed my boring job into a challenging
+and funny one.
