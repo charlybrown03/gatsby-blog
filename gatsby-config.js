@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `blog.carlosmoreno.dev`,
-    author: `Carlos Moreno`,
+    title: `Blog`,
+    author: `Carlos Moreno Villodre`,
     description: `A blog posts series where I write random things.`,
     siteUrl: `https://blog.carlosmoreno.dev/`,
     social: {
@@ -57,7 +57,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Carlos Moreno's Blog`,
+        name: `Carlos Moreno Villodre - Blog`,
         short_name: `Personal Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
