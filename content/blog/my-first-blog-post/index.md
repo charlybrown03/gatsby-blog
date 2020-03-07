@@ -1,7 +1,7 @@
 ---
 title: My first blog post
 date: "2020-01-17T22:22:32"
-description: This is a thanksgiving to the people who have brought me here
+description: My (developer) roots
 ---
 
 In my first blog post, I'm trying to recap about the people and actions
