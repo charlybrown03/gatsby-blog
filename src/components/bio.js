@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who works at Holaluz in Barcelona
+        Written by <strong>{author}</strong> who works at MyTheresa in Barcelona
         and enjoys his family in Rubí.
         {` `}
         <a
