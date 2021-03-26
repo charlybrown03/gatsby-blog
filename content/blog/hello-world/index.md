@@ -1,5 +1,5 @@
 ---
-title: My first blog post
+title: Hello World
 date: "2020-01-17T22:22:32"
 description: My (developer) roots
 ---
